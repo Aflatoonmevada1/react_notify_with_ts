@@ -1,0 +1,14 @@
+{
+  "name": "react_notify_with_ts",
+  "version": "1.0.0",
+  "description": "react_notify_with_ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
